@@ -40,7 +40,7 @@ export default function Home() {
             <span className="text-[10px]">Sat</span>
           </div>
         </div>
-        <div className="relative mt-12 h-[180px]">
+        <div className="relative mt-32 h-[180px]">
           <div className="absolute w-4/5 bg-yellow-300 h-full z-10 rounded-lg px-2 pt-1 pb-2 flex flex-col justify-between">
             <div>
               <div>Nora - BE</div>
