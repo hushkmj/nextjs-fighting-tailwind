@@ -50,8 +50,8 @@ export default function Home() {
               <div className="text-[8px]">7h30AM</div>
             </div>
           </div>
-          <div className="absolute w-full h-full bg-blue-300 rounded-lg flex justify-end items-center px-4">
-            <CheckIcon className="w-5 text-gray-950" />
+          <div className="absolute w-full h-full bg-blue-300 rounded-lg flex justify-end items-center px-2">
+            <CheckIcon className="h-5 w-5 text-gray-950" />
           </div>
         </div>
         <div className="relative mt-1 h-[28%] rounded-lg px-2 py-1 bg-green-400">
